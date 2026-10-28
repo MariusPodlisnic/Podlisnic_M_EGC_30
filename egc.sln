@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37012.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "egc", "egc\egc.csproj", "{175F6B20-61FB-4A65-B6EE-0E2E1C0E0405}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EgcLab04", "EgcLab04\EgcLab04.csproj", "{F65543CF-0657-A8D7-9DD8-0FDF114FAC7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{175F6B20-61FB-4A65-B6EE-0E2E1C0E0405}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{175F6B20-61FB-4A65-B6EE-0E2E1C0E0405}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{175F6B20-61FB-4A65-B6EE-0E2E1C0E0405}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{175F6B20-61FB-4A65-B6EE-0E2E1C0E0405}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F65543CF-0657-A8D7-9DD8-0FDF114FAC7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F65543CF-0657-A8D7-9DD8-0FDF114FAC7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F65543CF-0657-A8D7-9DD8-0FDF114FAC7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F65543CF-0657-A8D7-9DD8-0FDF114FAC7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F78F9E4-4AE8-46D3-AB25-2122D10BDE6A}
+	EndGlobalSection
+EndGlobal
